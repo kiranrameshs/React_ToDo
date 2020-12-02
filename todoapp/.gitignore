@@ -1,0 +1,36 @@
+#editor files
+.vscode
+
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+.DS_Store
+**/npm-cache
+node_modules
+/tmp
+.idea/
+.idea/workspace.xml
+dist/docs/
+dist
+loggedName.txt

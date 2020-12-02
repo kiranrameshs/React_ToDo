@@ -1,0 +1,39 @@
+
+
+  .btn {
+    box-sizing: border-box;
+    appearance: none;
+    background-color: transparent;
+    border: 2px solid #070707;
+    border-radius: 0.6em;
+    color: #ffffff;
+    cursor: pointer;
+    // display: flex;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  
+    &:hover,
+    &:focus {
+      color: rgb(14, 13, 13);
+      outline: 0;
+    }
+  }
+   .green{
+    border-color: #4fad4f;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #4fad4f inset, 0 0 0 0 #4fad4f;
+    transition: all 150ms ease-in-out;
+    
+    &:hover {
+      box-shadow: 0 0 10px 0 #4fad4f inset, 0 0 10px 4px #4fad4f;
+    }
+  }
