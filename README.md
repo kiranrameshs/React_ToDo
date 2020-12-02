@@ -1,6 +1,6 @@
-# Assignment 9
 
-#### ToDo React Application using Rest APIs (NodeJs, Mongoose, MongoDb, Express)
+
+## ToDo React Application using Rest APIs (NodeJs, Mongoose, MongoDb, Express)
 
   - fetch all existing todo items using Todo Resource
   - see detailed view of a particular Todo
